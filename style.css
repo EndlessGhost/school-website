@@ -1,5 +1,5 @@
 #vidieo{
-    width: 100%;
+    width: 300%;
     height: 500px;
     border: none;
 }
@@ -19,5 +19,20 @@
     margin: 20px;
 }
 
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
 
+.movie_head i
+{
+    float: right;
+}
 
+.achievement_text span
+{
+    color: orange;
+}
